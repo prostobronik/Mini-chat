@@ -8,7 +8,7 @@
 
 Скачиваем проект :
 
-### `git clone`
+### `git clone https://github.com/prostobronik/Mini-chat`
 
 Устанавливаем зависимости:
 
@@ -18,5 +18,5 @@
 
 ### `npm start`
 
-Проект на хосте.\
+Проект на хосте.Открывать по ссылке в двух окнах браузера.
 [http://localhost:3000](http://localhost:3000)
